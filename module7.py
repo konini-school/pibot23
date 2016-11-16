@@ -50,7 +50,6 @@ def right(interval):
 right(2)
 back(3)
 right(1
-forward(9)
 left(7)
 back(1)
 forward(1)
