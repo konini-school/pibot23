@@ -47,7 +47,7 @@ def right(interval):
       GPIO.output(11, False)
 
 # Main instructions here      
-forward(20)
+forward(30)
 GPIO.cleanup()
    
 print "\nPiBot is going offline..."
